@@ -1,0 +1,10 @@
+python-docx
+tqdm
+qdrant-client
+fastembed
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+streamlit
