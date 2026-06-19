@@ -1,0 +1,262 @@
+[
+  {
+    "id": "agent-001",
+    "kind": "cross_reference",
+    "question": "Theo Điều 131, noi dung nao can tra cuu them van ban huong dan?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 131"
+    ],
+    "expect_tool": true,
+    "required_doc_type": "Nghị định",
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "A legal reviewer must add the exact implementing article(s) before publishing article-level success."
+  },
+  {
+    "id": "agent-002",
+    "kind": "direct",
+    "question": "Noi dung Điều 164 ve Nghĩa vụ của lao động là người giúp việc gia đình la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 164"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-003",
+    "kind": "direct",
+    "question": "Noi dung Điều 15 ve Ký quỹ và sử dụng tiền ký quỹ la gi?",
+    "initial_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 15"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-004",
+    "kind": "direct",
+    "question": "Noi dung Điều 1 ve Phạm vi điều chỉnh la gi?",
+    "initial_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 1"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-005",
+    "kind": "direct",
+    "question": "Noi dung Điều 191 ve Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 191"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-006",
+    "kind": "direct",
+    "question": "Noi dung Điều 37 ve Trách nhiệm tổ chức đối thoại tại nơi làm việc la gi?",
+    "initial_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 37"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-007",
+    "kind": "direct",
+    "question": "Noi dung Điều 9 ve Hồ sơ đề nghị cấp giấy phép lao động la gi?",
+    "initial_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 9"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-008",
+    "kind": "direct",
+    "question": "Noi dung Điều 58 ve Quyền và nghĩa vụ của người lao động thuê lại la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 58"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-009",
+    "kind": "direct",
+    "question": "Noi dung Điều 19 ve Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại la gi?",
+    "initial_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 19"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-010",
+    "kind": "direct",
+    "question": "Noi dung Điều 26 ve Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam la gi?",
+    "initial_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 26"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-011",
+    "kind": "direct",
+    "question": "Noi dung Điều 27 ve Kết thúc thời gian thử việc la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 27"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-012",
+    "kind": "direct",
+    "question": "Noi dung Điều 90 ve Nghĩa vụ của người sử dụng lao động, người lao động la gi?",
+    "initial_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 90"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-013",
+    "kind": "direct",
+    "question": "Noi dung Điều 27 ve Trách nhiệm của tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam la gi?",
+    "initial_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 27"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-014",
+    "kind": "direct",
+    "question": "Noi dung Điều 142 ve Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 142"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-015",
+    "kind": "direct",
+    "question": "Noi dung Điều 12 ve Doanh nghiệp cho thuê lại lao động la gi?",
+    "initial_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 12"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-016",
+    "kind": "direct",
+    "question": "Noi dung Điều 21 ve Trình tự thu hồi giấy phép lao động la gi?",
+    "initial_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 21"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-017",
+    "kind": "direct",
+    "question": "Noi dung Điều 111 ve Nghỉ hằng tuần la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 111"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-018",
+    "kind": "direct",
+    "question": "Noi dung Điều 5 ve Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết la gi?",
+    "initial_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 5"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-019",
+    "kind": "direct",
+    "question": "Noi dung Điều 2 ve Đối tượng áp dụng la gi?",
+    "initial_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 2"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  },
+  {
+    "id": "agent-020",
+    "kind": "direct",
+    "question": "Noi dung Điều 24 ve Thử việc la gi?",
+    "initial_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 24"
+    ],
+    "expect_tool": false,
+    "required_doc_type": null,
+    "required_articles": [],
+    "review_status": "needs_human_review",
+    "notes": "Confirm that this question can be answered from the initial article without a cross-reference."
+  }
+]

@@ -4,19 +4,20 @@ import sys
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams, Filter, FieldCondition, MatchValue, PointStruct
 from fastembed import TextEmbedding
+from hybrid_search import BM25Index
 
 # Đảm bảo in unicode ra console không bị lỗi trên Windows
 if sys.platform.startswith('win'):
     sys.stdout.reconfigure(encoding='utf-8')
 
 class LegalRetriever:
-    def __init__(self, collection_name="legal_corpus", db_path="./qdrant_db"):
+    def __init__(self, collection_name="legal_corpus", db_path=None):
         self.collection_name = collection_name
-        self.db_path = db_path
+        self.db_path = db_path or os.getenv("LEGAL_QDRANT_DB_PATH", "./qdrant_db")
         
-        print(f"Đang khởi tạo Qdrant Client (chế độ local)... Cơ sở dữ liệu lưu tại '{os.path.abspath(db_path)}'")
+        print(f"Đang khởi tạo Qdrant Client (chế độ local)... Cơ sở dữ liệu lưu tại '{os.path.abspath(self.db_path)}'")
         # Chạy local mode, lưu ra đĩa cứng ở thư mục db_path
-        self.client = QdrantClient(path=db_path)
+        self.client = QdrantClient(path=self.db_path)
         
         # Lấy danh sách mô hình được hỗ trợ trong môi trường hiện tại
         supported_models = [m["model"] for m in TextEmbedding.list_supported_models()]
@@ -44,6 +45,23 @@ class LegalRetriever:
         
         # Đảm bảo collection tồn tại
         self._ensure_collection_exists()
+        self._load_lexical_index()
+
+    def _load_lexical_index(self, json_path="legal_corpus.json"):
+        """Load the same parsed chunks used by Qdrant for lexical retrieval."""
+        self.corpus = []
+        self.lexical_index = None
+        if not os.path.exists(json_path):
+            print(f"Missing {json_path}; hybrid search will use dense retrieval only.")
+            return
+        with open(json_path, "r", encoding="utf-8") as f:
+            self.corpus = json.load(f)
+        self.lexical_index = BM25Index([item["text"] for item in self.corpus])
+
+    @staticmethod
+    def _result_key(item):
+        meta = item["metadata"]
+        return (meta["source_file"], meta["dieu"], item["text"])
 
     def _ensure_collection_exists(self):
         """Tạo collection nếu chưa tồn tại trong cơ sở dữ liệu."""
@@ -120,6 +138,31 @@ class LegalRetriever:
         except Exception as e:
             print(f"Lỗi trong quá trình nạp dữ liệu (ingest_data): {e}")
 
+    def search_hybrid(self, query, top_k=15, doc_type_filter=None, rrf_k=60):
+        """Fuse dense Qdrant and BM25 rankings with reciprocal-rank fusion."""
+        dense_results = self.search(query, top_k=max(top_k * 3, 30), doc_type_filter=doc_type_filter)
+        if not self.lexical_index:
+            return dense_results[:top_k]
+
+        lexical_results = []
+        for index, score in self.lexical_index.search(query, top_k=max(top_k * 6, 100)):
+            item = self.corpus[index]
+            if doc_type_filter and item["metadata"].get("doc_type") != doc_type_filter:
+                continue
+            lexical_results.append({"text": item["text"], "metadata": item["metadata"], "score": score})
+            if len(lexical_results) >= top_k * 3:
+                break
+
+        fused = {}
+        for ranking in (dense_results, lexical_results):
+            for rank, item in enumerate(ranking, start=1):
+                key = self._result_key(item)
+                if key not in fused:
+                    fused[key] = dict(item)
+                    fused[key]["rrf_score"] = 0.0
+                fused[key]["rrf_score"] += 1.0 / (rrf_k + rank)
+        return sorted(fused.values(), key=lambda item: item["rrf_score"], reverse=True)[:top_k]
+
     def search(self, query, top_k=15, doc_type_filter=None):
         """Tìm kiếm ngữ nghĩa trong cơ sở dữ liệu Qdrant có hỗ trợ lọc doc_type."""
         try:
@@ -170,4 +213,3 @@ if __name__ == "__main__":
     # Khởi tạo retriever và nạp dữ liệu từ file JSON vào Qdrant DB khi chạy trực tiếp file này
     db = LegalRetriever()
     db.ingest_data("legal_corpus.json")
-

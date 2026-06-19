@@ -1,0 +1,902 @@
+[
+  {
+    "id": "silver-001",
+    "question": "Noi dung Điều 164 ve Nghĩa vụ của lao động là người giúp việc gia đình la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 164"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-002",
+    "question": "Noi dung Điều 15 ve Ký quỹ và sử dụng tiền ký quỹ la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 15"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-003",
+    "question": "Noi dung Điều 1 ve Phạm vi điều chỉnh la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 1"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-004",
+    "question": "Noi dung Điều 191 ve Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 191"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-005",
+    "question": "Noi dung Điều 37 ve Trách nhiệm tổ chức đối thoại tại nơi làm việc la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 37"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-006",
+    "question": "Noi dung Điều 9 ve Hồ sơ đề nghị cấp giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 9"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-007",
+    "question": "Noi dung Điều 58 ve Quyền và nghĩa vụ của người lao động thuê lại la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 58"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-008",
+    "question": "Noi dung Điều 19 ve Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 19"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-009",
+    "question": "Noi dung Điều 26 ve Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 26"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-010",
+    "question": "Noi dung Điều 27 ve Kết thúc thời gian thử việc la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 27"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-011",
+    "question": "Noi dung Điều 90 ve Nghĩa vụ của người sử dụng lao động, người lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 90"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-012",
+    "question": "Noi dung Điều 27 ve Trách nhiệm của tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 27"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-013",
+    "question": "Noi dung Điều 142 ve Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 142"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-014",
+    "question": "Noi dung Điều 12 ve Doanh nghiệp cho thuê lại lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 12"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-015",
+    "question": "Noi dung Điều 21 ve Trình tự thu hồi giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 21"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-016",
+    "question": "Noi dung Điều 111 ve Nghỉ hằng tuần la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 111"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-017",
+    "question": "Noi dung Điều 5 ve Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 5"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-018",
+    "question": "Noi dung Điều 2 ve Đối tượng áp dụng la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 2"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-019",
+    "question": "Noi dung Điều 24 ve Thử việc la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 24"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-020",
+    "question": "Noi dung Điều 32 ve Trách nhiệm của ngân hàng nhận ký quỹ la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 32"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-021",
+    "question": "Noi dung Điều 11 ve Trình tự cấp giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 11"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-022",
+    "question": "Noi dung Điều 134 ve Bảo đảm an toàn, vệ sinh lao động tại nơi làm việc la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 134"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-023",
+    "question": "Noi dung Điều 84 ve Quấy rối tình dục tại nơi làm việc la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 84"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-024",
+    "question": "Noi dung Điều 3 ve Giải thích từ ngữ la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 3"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-025",
+    "question": "Noi dung Điều 150 ve Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 150"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-026",
+    "question": "Noi dung Điều 30 ve Danh mục công việc được thực hiện cho thuê lại lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 30"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-027",
+    "question": "Noi dung Điều 29 ve Hiệu lực thi hành la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 29"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-028",
+    "question": "Noi dung Điều 188 ve Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 188"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-029",
+    "question": "Noi dung Điều 77 ve Nhà trẻ, lớp mẫu giáo la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 77"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-030",
+    "question": "Noi dung Điều 19 ve Thời hạn của giấy phép lao động được gia hạn la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 19"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-031",
+    "question": "Noi dung Điều 60 ve Trách nhiệm của người sử dụng lao động về đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 60"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-032",
+    "question": "Noi dung Điều 65 ve Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 65"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-033",
+    "question": "Noi dung Điều 28 ve Trách nhiệm của tổ chức dịch vụ việc làm, doanh nghiệp cho thuê lại lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 28"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-034",
+    "question": "Noi dung Điều 76 ve Lấy ý kiến và ký kết thỏa ước lao động tập thể la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 76"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-035",
+    "question": "Noi dung Điều 115 ve Trách nhiệm thi hành la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 115"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-036",
+    "question": "Noi dung Điều 4 ve Sử dụng người lao động nước ngoài la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 4"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-037",
+    "question": "Noi dung Điều 207 ve Tiền lương và các quyền lợi hợp pháp khác của người lao động trong thời gian đình công la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 207"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-038",
+    "question": "Noi dung Điều 25 ve Trình tự, thủ tục cấp giấy phép la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 25"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-039",
+    "question": "Noi dung Điều 22 ve Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 22"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-040",
+    "question": "Noi dung Điều 93 ve Xây dựng thang lương, bảng lương và định mức lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 93"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-041",
+    "question": "Noi dung Điều 44 ve Nội dung, hình thức người lao động được tham gia ý kiến la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 44"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-042",
+    "question": "Noi dung Điều 10 ve Thời hạn của giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 10"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-043",
+    "question": "Noi dung Điều 59 ve Đào tạo nghề nghiệp và phát triển kỹ năng nghề la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 59"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-044",
+    "question": "Noi dung Điều 111 ve Trình tự, thủ tục thực hiện ngừng đình công la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 111"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-045",
+    "question": "Noi dung Điều 18 ve Trình tự gia hạn giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 18"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-046",
+    "question": "Noi dung Điều 29 ve Chuyển người lao động làm công việc khác so với hợp đồng lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 29"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-047",
+    "question": "Noi dung Điều 14 ve Người lao động thuê lại la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 14"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-048",
+    "question": "Noi dung Điều 14 ve Trình tự cấp lại giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 14"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-049",
+    "question": "Noi dung Điều 26 ve Tiền lương thử việc la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 26"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-050",
+    "question": "Noi dung Điều 56 ve Tiền lương làm việc vào ban đêm la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 56"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-051",
+    "question": "Noi dung Điều 30 ve Trách nhiệm thi hành la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 30"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-052",
+    "question": "Noi dung Điều 98 ve Tiền lương làm thêm giờ, làm việc vào ban đêm la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 98"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-053",
+    "question": "Noi dung Điều 93 ve Trình tự và thủ tục bổ nhiệm hòa giải viên lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 93"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-054",
+    "question": "Noi dung Điều 12 ve Các trường hợp cấp lại giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 12"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-055",
+    "question": "Noi dung Điều 12 ve Trách nhiệm quản lý lao động của người sử dụng lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 12"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-056",
+    "question": "Noi dung Điều 110 ve Trình tự, thủ tục thực hiện hoãn đình công la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 110"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-057",
+    "question": "Noi dung Điều 17 ve Hồ sơ đề nghị gia hạn giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 17"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-058",
+    "question": "Noi dung Điều 153 ve Trách nhiệm của người sử dụng lao động và người lao động nước ngoài la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 153"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-059",
+    "question": "Noi dung Điều 21 ve Điều kiện cấp giấy phép la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 21"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-060",
+    "question": "Noi dung Điều 16 ve Điều kiện được gia hạn giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 16"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-061",
+    "question": "Noi dung Điều 22 ve Phụ lục hợp đồng lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 22"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-062",
+    "question": "Noi dung Điều 86 ve Trách nhiệm, nghĩa vụ phòng, chống quấy rối tình dục tại nơi làm việc la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 86"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-063",
+    "question": "Noi dung Điều 13 ve Hồ sơ đề nghị cấp lại giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 13"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-064",
+    "question": "Noi dung Điều 179 ve Tranh chấp lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 179"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-065",
+    "question": "Noi dung Điều 98 ve Tiêu chuẩn, điều kiện trọng tài viên lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 98"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-066",
+    "question": "Noi dung Điều 20 ve Các trường hợp bị thu hồi giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 20"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-067",
+    "question": "Noi dung Điều 166 ve Người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 166"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-068",
+    "question": "Noi dung Điều 34 ve Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 34"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-069",
+    "question": "Noi dung Điều 6 ve Báo cáo sử dụng người lao động nước ngoài la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 6"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-070",
+    "question": "Noi dung Điều 13 ve Hợp đồng lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 13"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-071",
+    "question": "Noi dung Điều 105 ve Danh mục nơi sử dụng lao động không được đình công la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 105"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-072",
+    "question": "Noi dung Điều 7 ve Trường hợp người lao động nước ngoài không thuộc diện cấp giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 7"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-073",
+    "question": "Noi dung Điều 86 ve Thỏa ước lao động tập thể vô hiệu la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 86"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-074",
+    "question": "Noi dung Điều 13 ve Bên thuê lại lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 13"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-075",
+    "question": "Noi dung Điều 8 ve Xác nhận người lao động nước ngoài không thuộc diện cấp giấy phép lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 8"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-076",
+    "question": "Noi dung Điều 33 ve Sửa đổi, bổ sung hợp đồng lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 33"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-077",
+    "question": "Noi dung Điều 63 ve Ca làm việc và tổ chức làm việc theo ca la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 63"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-078",
+    "question": "Noi dung Điều 23 ve Hồ sơ đăng ký dự tuyển của người lao động Việt Nam la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 23"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-079",
+    "question": "Noi dung Điều 133 ve Chương trình an toàn, vệ sinh lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 133"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-080",
+    "question": "Noi dung Điều 104 ve Quản lý nhà nước đối với trọng tài viên lao động, Hội đồng trọng tài lao động la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 104"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-081",
+    "question": "Noi dung Điều 24 ve Trình tự, thủ tục tuyển dụng người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 24"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-082",
+    "question": "Noi dung Điều 50 ve Thẩm quyền tuyên bố hợp đồng lao động vô hiệu la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 50"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-083",
+    "question": "Noi dung Điều 62 ve Thông báo về việc tổ chức làm thêm từ trên 200 giờ đến 300 giờ trong một năm la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 62"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-084",
+    "question": "Noi dung Điều 15 ve Thời hạn của giấy phép lao động được cấp lại la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 15"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-085",
+    "question": "Noi dung Điều 66 ve Nguyên tắc thương lượng tập thể la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 66"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-086",
+    "question": "Noi dung Điều 113 ve Quyền, trách nhiệm của người lao động khi ngừng đình công la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 113"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-087",
+    "question": "Noi dung Điều 25 ve Trách nhiệm của người lao động Việt Nam khi làm việc cho tổ chức, cá nhân nước ngoài la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 25"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-088",
+    "question": "Noi dung Điều 209 ve Nơi sử dụng lao động không được đình công la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 209"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-089",
+    "question": "Noi dung Điều 108 ve Giải quyết tranh chấp liên quan đến quyền thương lượng tập thể tại nơi sử dụng lao động không được đình công la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 108"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-090",
+    "question": "Noi dung Điều 5 ve Sử dụng người lao động nước ngoài của nhà thầu la gi?",
+    "relevant_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 5"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-091",
+    "question": "Noi dung Điều 182 ve Quyền và nghĩa vụ của hai bên trong giải quyết tranh chấp lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 182"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-092",
+    "question": "Noi dung Điều 107 ve Giải quyết tranh chấp lao động tập thể về lợi ích tại nơi sử dụng lao động không được đình công la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 107"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-093",
+    "question": "Noi dung Điều 53 ve Nguyên tắc hoạt động cho thuê lại lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 53"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-094",
+    "question": "Noi dung Điều 89 ve Một số quy định riêng đối với lao động là người giúp việc gia đình la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 89"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-095",
+    "question": "Noi dung Điều 219 ve Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 219"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-096",
+    "question": "Noi dung Điều 45 ve Nội dung, hình thức người lao động được quyết định la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 45"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-097",
+    "question": "Noi dung Điều 51 ve Xử lý hợp đồng lao động vô hiệu la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 51"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-098",
+    "question": "Noi dung Điều 79 ve Tăng cường phúc lợi và cải thiện điều kiện làm việc la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 79"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-099",
+    "question": "Noi dung Điều 118 ve Nội quy lao động la gi?",
+    "relevant_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 118"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  },
+  {
+    "id": "silver-100",
+    "question": "Noi dung Điều 49 ve Chức năng của Hội đồng tiền lương quốc gia la gi?",
+    "relevant_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 49"
+    ],
+    "review_status": "needs_human_review",
+    "notes": "Replace the templated question with a natural legal question before reporting results."
+  }
+]

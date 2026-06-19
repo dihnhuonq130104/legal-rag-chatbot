@@ -1,0 +1,552 @@
+[
+  {
+    "id": "answer-silver-001",
+    "question": "Noi dung Điều 164 ve Nghĩa vụ của lao động là người giúp việc gia đình la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 164"
+    ],
+    "reference_answer": "Điều 164. Nghĩa vụ của lao động là người giúp việc gia đình",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-002",
+    "question": "Noi dung Điều 15 ve Ký quỹ và sử dụng tiền ký quỹ la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 15"
+    ],
+    "reference_answer": "Điều 15. Ký quỹ và sử dụng tiền ký quỹ",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-003",
+    "question": "Noi dung Điều 1 ve Phạm vi điều chỉnh la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 1"
+    ],
+    "reference_answer": "Điều 1. Phạm vi điều chỉnh\nNghị định này quy định về người lao động nước ngoài làm việc tại Việt Nam và tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam theo các điều, khoản sau đây của Bộ luật Lao động:",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-004",
+    "question": "Noi dung Điều 191 ve Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 191"
+    ],
+    "reference_answer": "Điều 191. Thẩm quyền giải quyết tranh chấp lao động tập thể về quyền",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-005",
+    "question": "Noi dung Điều 37 ve Trách nhiệm tổ chức đối thoại tại nơi làm việc la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 37"
+    ],
+    "reference_answer": "Điều 37. Trách nhiệm tổ chức đối thoại tại nơi làm việc",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-006",
+    "question": "Noi dung Điều 9 ve Hồ sơ đề nghị cấp giấy phép lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 9"
+    ],
+    "reference_answer": "Điều 9. Hồ sơ đề nghị cấp giấy phép lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-007",
+    "question": "Noi dung Điều 58 ve Quyền và nghĩa vụ của người lao động thuê lại la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 58"
+    ],
+    "reference_answer": "Điều 58. Quyền và nghĩa vụ của người lao động thuê lại\nNgoài các quyền và nghĩa vụ theo quy định tại Điều 5 của Bộ luật này, người lao động thuê lại có các quyền và nghĩa vụ sau đây:",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-008",
+    "question": "Noi dung Điều 19 ve Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 19"
+    ],
+    "reference_answer": "Điều 19. Trích tiền ký quỹ khi doanh nghiệp cho thuê lại không thực hiện nghĩa vụ đối với người lao động thuê lại",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-009",
+    "question": "Noi dung Điều 26 ve Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 26"
+    ],
+    "reference_answer": "Điều 26. Trách nhiệm của tổ chức, cá nhân nước ngoài tại Việt Nam khi sử dụng người lao động Việt Nam",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-010",
+    "question": "Noi dung Điều 27 ve Kết thúc thời gian thử việc la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 27"
+    ],
+    "reference_answer": "Điều 27. Kết thúc thời gian thử việc",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-011",
+    "question": "Noi dung Điều 90 ve Nghĩa vụ của người sử dụng lao động, người lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 90"
+    ],
+    "reference_answer": "Điều 90. Nghĩa vụ của người sử dụng lao động, người lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-012",
+    "question": "Noi dung Điều 27 ve Trách nhiệm của tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 27"
+    ],
+    "reference_answer": "Điều 27. Trách nhiệm của tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-013",
+    "question": "Noi dung Điều 142 ve Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 142"
+    ],
+    "reference_answer": "Điều 142. Nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-014",
+    "question": "Noi dung Điều 12 ve Doanh nghiệp cho thuê lại lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 12"
+    ],
+    "reference_answer": "Điều 12. Doanh nghiệp cho thuê lại lao động\nDoanh nghiệp cho thuê lại lao động là doanh nghiệp được thành lập theo quy định của Luật Doanh nghiệp, được cấp giấy phép hoạt động cho thuê lại lao động, có tuyển dụng, giao kết hợp đồng lao động với người lao động, sau đó chuyển người lao động sang làm việc và chịu sự điều hành của người sử dụng lao động khác mà vẫn duy trì quan hệ lao động với doanh nghiệp đã giao kết hợp đồng lao động (sau đây gọi là doanh nghiệp cho thuê lại).",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-015",
+    "question": "Noi dung Điều 21 ve Trình tự thu hồi giấy phép lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 21"
+    ],
+    "reference_answer": "Điều 21. Trình tự thu hồi giấy phép lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-016",
+    "question": "Noi dung Điều 111 ve Nghỉ hằng tuần la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 111"
+    ],
+    "reference_answer": "Điều 111. Nghỉ hằng tuần",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-017",
+    "question": "Noi dung Điều 5 ve Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 5"
+    ],
+    "reference_answer": "Điều 5. Nội dung hợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết\nHợp đồng lao động đối với người lao động được thuê làm giám đốc trong doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ hoặc Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết tại khoản 4 Điều 21 của Bộ luật Lao động gồm những nội dung chủ yếu:",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-018",
+    "question": "Noi dung Điều 2 ve Đối tượng áp dụng la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 2"
+    ],
+    "reference_answer": "Điều 2. Đối tượng áp dụng",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-019",
+    "question": "Noi dung Điều 24 ve Thử việc la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 24"
+    ],
+    "reference_answer": "Điều 24. Thử việc",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-020",
+    "question": "Noi dung Điều 32 ve Trách nhiệm của ngân hàng nhận ký quỹ la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 32"
+    ],
+    "reference_answer": "Điều 32. Trách nhiệm của ngân hàng nhận ký quỹ",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-021",
+    "question": "Noi dung Điều 11 ve Trình tự cấp giấy phép lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 11"
+    ],
+    "reference_answer": "Điều 11. Trình tự cấp giấy phép lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-022",
+    "question": "Noi dung Điều 134 ve Bảo đảm an toàn, vệ sinh lao động tại nơi làm việc la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 134"
+    ],
+    "reference_answer": "Điều 134. Bảo đảm an toàn, vệ sinh lao động tại nơi làm việc",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-023",
+    "question": "Noi dung Điều 84 ve Quấy rối tình dục tại nơi làm việc la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 84"
+    ],
+    "reference_answer": "Điều 84. Quấy rối tình dục tại nơi làm việc",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-024",
+    "question": "Noi dung Điều 3 ve Giải thích từ ngữ la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 3"
+    ],
+    "reference_answer": "Điều 3. Giải thích từ ngữ",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-025",
+    "question": "Noi dung Điều 150 ve Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 150"
+    ],
+    "reference_answer": "Điều 150. Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-026",
+    "question": "Noi dung Điều 30 ve Danh mục công việc được thực hiện cho thuê lại lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 30"
+    ],
+    "reference_answer": "Điều 30. Danh mục công việc được thực hiện cho thuê lại lao động\nDanh mục công việc được thực hiện cho thuê lại lao động được quy định tại Phụ lục II ban hành kèm theo Nghị định này.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-027",
+    "question": "Noi dung Điều 29 ve Hiệu lực thi hành la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 29"
+    ],
+    "reference_answer": "Điều 29. Hiệu lực thi hành",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-028",
+    "question": "Noi dung Điều 188 ve Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 188"
+    ],
+    "reference_answer": "Điều 188. Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-029",
+    "question": "Noi dung Điều 77 ve Nhà trẻ, lớp mẫu giáo la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 77"
+    ],
+    "reference_answer": "Điều 77. Nhà trẻ, lớp mẫu giáo\nNhà trẻ, lớp mẫu giáo là cơ sở giáo dục mầm non theo quy định tại Điều 26 của Luật Giáo dục, gồm:",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-030",
+    "question": "Noi dung Điều 19 ve Thời hạn của giấy phép lao động được gia hạn la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 19"
+    ],
+    "reference_answer": "Điều 19. Thời hạn của giấy phép lao động được gia hạn\nThời hạn của giấy phép lao động được gia hạn theo thời hạn của một trong các trường hợp quy định tại Điều 10 Nghị định này nhưng chỉ được gia hạn một lần với thời hạn tối đa là 02 năm.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-031",
+    "question": "Noi dung Điều 60 ve Trách nhiệm của người sử dụng lao động về đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 60"
+    ],
+    "reference_answer": "Điều 60. Trách nhiệm của người sử dụng lao động về đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-032",
+    "question": "Noi dung Điều 65 ve Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 65"
+    ],
+    "reference_answer": "Điều 65. Thời gian được coi là thời gian làm việc để tính số ngày nghỉ hằng năm của người lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-033",
+    "question": "Noi dung Điều 28 ve Trách nhiệm của tổ chức dịch vụ việc làm, doanh nghiệp cho thuê lại lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 28"
+    ],
+    "reference_answer": "Điều 28. Trách nhiệm của tổ chức dịch vụ việc làm, doanh nghiệp cho thuê lại lao động\nTrước ngày 15 tháng 12 hằng năm hoặc đột xuất khi có yêu cầu, tổ chức dịch vụ việc làm, doanh nghiệp cho thuê lại lao động báo cáo tình hình cung ứng người lao động Việt Nam hoặc cho thuê lại lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài tại Việt Nam theo Mẫu số 04/PLII Phụ lục II ban hành kèm theo Nghị định này cho tổ chức có thẩm quyền tuyển dụng, quản lý người lao động Việt Nam. Thời gian chốt số liệu báo cáo hằng năm tính từ ngày 15 tháng 12 năm trước kỳ báo cáo đến ngày 14 tháng 12 của kỳ báo cáo.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-034",
+    "question": "Noi dung Điều 76 ve Lấy ý kiến và ký kết thỏa ước lao động tập thể la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 76"
+    ],
+    "reference_answer": "Điều 76. Lấy ý kiến và ký kết thỏa ước lao động tập thể",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-035",
+    "question": "Noi dung Điều 115 ve Trách nhiệm thi hành la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 115"
+    ],
+    "reference_answer": "Điều 115. Trách nhiệm thi hành\nCác Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, doanh nghiệp, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-036",
+    "question": "Noi dung Điều 4 ve Sử dụng người lao động nước ngoài la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 4"
+    ],
+    "reference_answer": "Điều 4. Sử dụng người lao động nước ngoài",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-037",
+    "question": "Noi dung Điều 207 ve Tiền lương và các quyền lợi hợp pháp khác của người lao động trong thời gian đình công la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 207"
+    ],
+    "reference_answer": "Điều 207. Tiền lương và các quyền lợi hợp pháp khác của người lao động trong thời gian đình công",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-038",
+    "question": "Noi dung Điều 25 ve Trình tự, thủ tục cấp giấy phép la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 25"
+    ],
+    "reference_answer": "Điều 25. Trình tự, thủ tục cấp giấy phép",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-039",
+    "question": "Noi dung Điều 22 ve Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 22"
+    ],
+    "reference_answer": "Điều 22. Thẩm quyền tuyển dụng, quản lý người lao động Việt Nam làm việc cho tổ chức, cá nhân nước ngoài",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-040",
+    "question": "Noi dung Điều 93 ve Xây dựng thang lương, bảng lương và định mức lao động la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 93"
+    ],
+    "reference_answer": "Điều 93. Xây dựng thang lương, bảng lương và định mức lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-041",
+    "question": "Noi dung Điều 44 ve Nội dung, hình thức người lao động được tham gia ý kiến la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 44"
+    ],
+    "reference_answer": "Điều 44. Nội dung, hình thức người lao động được tham gia ý kiến",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-042",
+    "question": "Noi dung Điều 10 ve Thời hạn của giấy phép lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 10"
+    ],
+    "reference_answer": "Điều 10. Thời hạn của giấy phép lao động\nThời hạn của giấy phép lao động được cấp theo thời hạn của một trong các trường hợp sau đây nhưng không quá 02 năm:",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-043",
+    "question": "Noi dung Điều 59 ve Đào tạo nghề nghiệp và phát triển kỹ năng nghề la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 59"
+    ],
+    "reference_answer": "Điều 59. Đào tạo nghề nghiệp và phát triển kỹ năng nghề",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-044",
+    "question": "Noi dung Điều 111 ve Trình tự, thủ tục thực hiện ngừng đình công la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 111"
+    ],
+    "reference_answer": "Điều 111. Trình tự, thủ tục thực hiện ngừng đình công",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-045",
+    "question": "Noi dung Điều 18 ve Trình tự gia hạn giấy phép lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 18"
+    ],
+    "reference_answer": "Điều 18. Trình tự gia hạn giấy phép lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-046",
+    "question": "Noi dung Điều 29 ve Chuyển người lao động làm công việc khác so với hợp đồng lao động la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 29"
+    ],
+    "reference_answer": "Điều 29. Chuyển người lao động làm công việc khác so với hợp đồng lao động",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-047",
+    "question": "Noi dung Điều 14 ve Người lao động thuê lại la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 14"
+    ],
+    "reference_answer": "Điều 14. Người lao động thuê lại\nNgười lao động thuê lại là người lao động có năng lực hành vi dân sự đầy đủ, được doanh nghiệp cho thuê lại tuyển dụng và giao kết hợp đồng lao động, sau đó chuyển sang làm việc và chịu sự điều hành của bên thuê lại lao động.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-048",
+    "question": "Noi dung Điều 14 ve Trình tự cấp lại giấy phép lao động la gi?",
+    "supporting_articles": [
+      "Nghị định 152 năm 2020.docx::Điều 14"
+    ],
+    "reference_answer": "Điều 14. Trình tự cấp lại giấy phép lao động\nTrong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại giấy phép lao động, Bộ Lao động - Thương binh và Xã hội hoặc Sở Lao động - Thương binh và Xã hội cấp lại giấy phép lao động. Trường hợp không cấp lại giấy phép lao động thì có văn bản trả lời và nêu rõ lý do.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-049",
+    "question": "Noi dung Điều 26 ve Tiền lương thử việc la gi?",
+    "supporting_articles": [
+      "Bộ luật Lao động 2019.docx::Điều 26"
+    ],
+    "reference_answer": "Điều 26. Tiền lương thử việc\nTiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó.",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  },
+  {
+    "id": "answer-silver-050",
+    "question": "Noi dung Điều 56 ve Tiền lương làm việc vào ban đêm la gi?",
+    "supporting_articles": [
+      "Nghị định 145 năm 2020.docx::Điều 56"
+    ],
+    "reference_answer": "Điều 56. Tiền lương làm việc vào ban đêm\nTiền lương làm việc vào ban đêm theo khoản 2 Điều 98 của Bộ luật Lao động, được tính theo công thức sau:",
+    "review_status": "needs_human_review",
+    "human_correctness": null,
+    "human_faithfulness": null
+  }
+]

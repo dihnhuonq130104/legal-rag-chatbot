@@ -34,6 +34,7 @@ print("Khởi tạo Reranker thành công.")
 
 # Danh sách lưu trữ các nguồn tài liệu đã được Agent sử dụng
 accessed_sources = []
+agent_trace = {"tool_calls": []}
 
 @tool
 def lookup_specific_document(keyword: str, doc_type: str) -> str:
@@ -46,6 +47,7 @@ def lookup_specific_document(keyword: str, doc_type: str) -> str:
         doc_type: Loại văn bản pháp luật cần tìm kiếm, bắt buộc phải là 'Luật' hoặc 'Nghị định'.
     """
     global accessed_sources
+    agent_trace["tool_calls"].append({"keyword": keyword, "doc_type": doc_type})
     
     # Chuẩn hóa doc_type đầu vào
     doc_type_clean = doc_type.strip()
@@ -57,7 +59,7 @@ def lookup_specific_document(keyword: str, doc_type: str) -> str:
         doc_type_clean = "Nghị định"
         
     print(f"\n[Tool Call] Đang tìm kiếm bổ sung từ khóa '{keyword}' trong '{doc_type_clean}'...")
-    results = retriever.search(keyword, top_k=10, doc_type_filter=doc_type_clean)
+    results = retriever.search_hybrid(keyword, top_k=10, doc_type_filter=doc_type_clean)
     
     # Lưu lại metadata
     for r in results:
@@ -107,13 +109,14 @@ agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
 def generate_answer(user_query, chat_history=None):
     """Hàm chính thực hiện RAG."""
-    global accessed_sources
+    global accessed_sources, agent_trace
     accessed_sources = []
+    agent_trace = {"tool_calls": []}
     
     try:
         # 1. Tra cứu top 8
         print(f"\n[RAG Pipeline] Tìm kiếm truy vấn: '{user_query}'...")
-        retrieved = retriever.search(user_query, top_k=8)
+        retrieved = retriever.search_hybrid(user_query, top_k=15)
         
         # 2. Reranking
         top_5 = []
@@ -179,12 +182,14 @@ def generate_answer(user_query, chat_history=None):
             
         return {
             "answer": answer,
-            "sources": accessed_sources
+            "sources": accessed_sources,
+            "trace": agent_trace
         }
         
     except Exception as e:
         print(f"[RAG Pipeline] Lỗi: {e}")
         return {
             "answer": f"Đã xảy ra lỗi hệ thống: {str(e)}",
-            "sources": []
+            "sources": [],
+            "trace": agent_trace
         }

@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 qdrant_db/
+evaluation/results/
+evaluation/tmp_qdrant_db*/
